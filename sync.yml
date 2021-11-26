@@ -1,4 +1,7 @@
 docker.io:
     tls-verify: false
     images:
+      #备份青龙
       whyour/qinglong: []
+      #备份诺兰jdc
+      nolanhzy/nvjdc: []
