@@ -13,7 +13,7 @@ on:
 env:
   ACTOR: Myki
   #同步目标仓库名称hub.docker(如果是默认仓库docker.io可省略)
-  DEST-REGISTORY: docker.io/cheche
+  DEST-REGISTORY: docker.io/xfjhing
 
 
 jobs:
